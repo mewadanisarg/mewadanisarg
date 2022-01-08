@@ -10,10 +10,15 @@ I am eager to work with a friendly team and want to go more deeper into Full-Sta
 
 I have Master's Degree in International Business Management from SRH Hochshule Heidelberg. So know to well organise stuff😄.
 
+## Little more detials about me👇:
 <ul>
   <li>Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" height="12" width="20"></li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Home: Berlin <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" height="12" width="20"></li>
+  <li>Languages: German(B1), English(C1), Hindi(C1)</li>
+  <li>Hobbies: Reading📖, Gaming💻</li>
+  <li>Quotes I like: 
+  <li>It always seems impossible unless it's done -Nelson Mandela</li>
+  </li>
 </ul>
 
 **Tech Stack**
