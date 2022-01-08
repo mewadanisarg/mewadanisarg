@@ -29,7 +29,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 
 # Contact
 - <strong>Mail:</strong> nisargmewada@gmail.com
-- <a href="https://www.linkedin.com/in/nisargmewada/"><img src="https://www.techjuice.pk/wp-content/uploads/2021/02/linkedin-101-hero@2x.png" height="20" width="40"></img></a>
+- <a href="https://www.linkedin.com/in/nisargmewada/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" height="20" width="40"></img></a>
 - <a href="https://www.xing.com/profile/Nisarg_Mewada/cv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xing_logo.svg/2560px-Xing_logo.svg.png" height="20" width="40"></img></a>
 
 
