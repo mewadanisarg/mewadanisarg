@@ -31,6 +31,6 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 - <strong>Mail:</strong> nisargmewada@gmail.com
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nisargmewada/)
 &nbsp;
-- <a href="https://www.xing.com/profile/Nisarg_Mewada/cv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xing_logo.svg/2560px-Xing_logo.svg.png" height="12" width="30"></img></a>
+- <a href="https://www.xing.com/profile/Nisarg_Mewada/cv"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xing_logo.svg/2560px-Xing_logo.svg.png" height="12" width="30" alt="Xing"></img></a>
 
 
