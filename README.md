@@ -14,7 +14,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 
 Tools I am using and learnig to use:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" width="40"> <img src="https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png" height="40" width="100"> <img src="https://thehacktoday.com/wp-content/uploads/2017/01/1-16.png" height="40" width="100"> <img src="https://www.ppw.de/blog/wordpress/wp-content/uploads/2019/01/Vue.js-Logo.jpg" height="40" width="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" width="40"> <img src="https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png" height="40" width="100"> <img src="https://thehacktoday.com/wp-content/uploads/2017/01/1-16.png" height="40" width="100"> <img src="https://www.ppw.de/blog/wordpress/wp-content/uploads/2019/01/Vue.js-Logo.jpg" height="40" width="100"> <img src="https://www.tutorialrepublic.com/lib/images/css-illustration.png" height="40" width="100">
 
 
 Here are some ideas to get you started:
