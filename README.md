@@ -14,7 +14,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 
 Tools I am using and learnig to use:
 
-<img src="https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png" height="100" width="50">
+<img src="https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png" height="80" width="50">
 
 Here are some ideas to get you started:
 
