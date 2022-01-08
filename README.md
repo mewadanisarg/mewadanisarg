@@ -14,7 +14,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 
 Tools I am using and learnig to use:
 
-Express.js
+![ExpressJS-logo](https://user-images.githubusercontent.com/73109141/148652076-3e35ef64-94e0-415d-9a9f-bd24e6b8c234.png)
 
 Here are some ideas to get you started:
 
