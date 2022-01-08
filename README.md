@@ -29,6 +29,6 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 
 # Contact
 - <strong>Mail:</strong> nisargmewada@gmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nisargmewada/)
 &nbsp;
 
