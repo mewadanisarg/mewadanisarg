@@ -20,7 +20,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
   </li>
 </ul>
 
-**Tech Stack**
+<u>**Tech Stack**</u>
 
 Tools I am using and learnig to use:
 
