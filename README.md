@@ -14,7 +14,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 
 Tools I am using and learnig to use:
 
-![express-logo](https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png){:height="100px" width="200px"}
+(img src="https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png" height="100px" width="200px")
 
 Here are some ideas to get you started:
 
