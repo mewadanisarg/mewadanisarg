@@ -14,7 +14,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
 
 Tools I am using and learnig to use:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" width="40"> <img src="https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png" height="40" width="80"> <img src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" height="40" width="80"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40" width="40"> <img src="https://user-images.githubusercontent.com/73109141/148652129-f16146ce-42d3-4393-8025-739144ab52ce.png" height="40" width="80"> <img src="https://repository-images.githubusercontent.com/256063087/3d0c3280-8ad8-11ea-8b8d-7466f7ee8330" height="40" width="80"> 
 
 Here are some ideas to get you started:
 
