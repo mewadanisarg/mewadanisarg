@@ -16,8 +16,7 @@ I have Master's Degree in International Business Management from SRH Hochshule H
   <li>Home: Berlin <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" height="12" width="20"></li>
   <li>Languages: German(B1), English(C1), Hindi(C1)</li>
   <li>Hobbies: Reading📖, Gaming💻</li>
-  <li>Quotes I like: 
-  <li>It always seems impossible unless it's done -Nelson Mandela</li>
+  <li>Quotes I like: It always seems impossible unless it's done -Nelson Mandela
   </li>
 </ul>
 
