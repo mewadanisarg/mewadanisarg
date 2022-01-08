@@ -11,7 +11,7 @@ I am eager to work with a friendly team and want to go more deeper into Full-Sta
 I have Master's Degree in International Business Management from SRH Hochshule Heidelberg. So know to well organise stuff😄.
 
 <ul>
-  <li>Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" height="10" width="20"></li>
+  <li>Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" height="12" width="20"></li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
