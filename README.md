@@ -8,7 +8,7 @@ I have become very curious about web development since my bachelors studies and 
 
 I am eager to work with a friendly team and want to go more deeper into Full-Stack web development this year. 
 
-I have Master's Degree in International Business and Engineering from SRH Hochshule Heidelberg. So know to well organise stuff😄.
+I have Master's Degree in International Business and Engineering from SRH Hochshule Heidelberg. So I know well to organise stuff😄.
 
 ## Little more detials about me👇
 <ul>
