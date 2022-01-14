@@ -4,7 +4,7 @@
 
 My name is Nisarg Mewada and I'm currently looking for a job as **Junior Web Developer**. I am graduated from Full-Stack Web Development Bootcamp at Spiced Academy Berlin [https://www.spiced-academy.com/en/program/full-stack-web-development] 🌱. 
 
-I have become very curious about web development since my bachelors studies and started to code during that period. Although my background is not in IT, but I am having a fun time learning and developing new things.
+I have become very curious about web development since my bachelors studies and started to code during that period. Although my background is not in IT, but I am having a fun time learning and developing new things using different languages.
 
 I am eager to work with a friendly team and want to go more deeper into Full-Stack web development this year. 
 
