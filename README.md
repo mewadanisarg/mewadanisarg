@@ -2,11 +2,11 @@
 
 ## About Me
 
-My name is Nisarg Mewada and I'm currently looking for a job as **Junior Web Developer**. I am graduated from Full-Stack Web Development Bootcamp at Spiced Academy Berlin [https://www.spiced-academy.com/en/program/full-stack-web-development] 🌱. 
+My name is Nisarg Mewada and I'm currently I am currently working for Microsoft Xandr(aka AppNexus) as Technical Support Engineer. On daily basis I work with MySQL, Javascript, HTML, Jira, Salesforce, Confluence and internal troublehsooting tools. Analytical, communication and time mananegment skills helped to climb the knownledge ledder within the organisation. 
+
+I have graduated as **Full Stack Web Developer** From Spiced Academy's Bootcamp in June 2021. 
 
 I have become very curious about web development since my bachelors studies and started to code during that period. Although my background is not in IT, but I am having a fun time learning and developing new things using different languages.
-
-I am eager to work with a friendly team and want to go more deeper into Full-Stack web development this year. 
 
 I have Master's Degree in International Business and Engineering from SRH Hochshule Heidelberg. So I know well to organise stuff😄.
 
