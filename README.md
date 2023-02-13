@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Nisarg Mewada and I'm currently working for Microsoft Xandr(aka AppNexus) as Technical Support Engineer. On daily basis I work with MySQL, Javascript, HTML, Jira, Salesforce, Confluence and internal troublehsooting tools. Analytical, communication and time mananegment skills helped to climb the knownledge ledder within the organisation. 
+My name is Nisarg Mewada and I'm currently working for Microsoft Xandr(aka AppNexus) as Technical Support Engineer. On daily basis I work with MySQL, Javascript, HTML, Jira, Salesforce, Confluence and internal troublehsooting tools. Analytical, communication and time mananegment skills helped me to climb the knownledge ledder within the organisation. 
 
 I have graduated as **Full Stack Web Developer** From Spiced Academy's Bootcamp in June 2021. 
 
