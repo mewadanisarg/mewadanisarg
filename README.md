@@ -14,7 +14,7 @@ I have Master's Degree in International Business and Engineering from SRH Hochsh
 <ul>
   <li>Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" height="12" width="20"></li>
   <li>Home: Berlin <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" height="12" width="20"></li>
-  <li>Languages: German(B1), English(C1), Hindi(C1)</li>
+  <li>Languages: German(B2), English(C1), Hindi(C1)</li>
   <li>Hobbies: Reading📖, Gaming💻</li>
   <li>Quotes I like: <i>"It always seems impossible unless it's done"</i> -Nelson Mandela
   </li>
