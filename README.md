@@ -23,10 +23,12 @@ I have Master's Degree in International Business and Engineering from SRH Hochsh
 ## **Tech Stack**
 
 ⚡Tools I am using and learnig to use:
-# Javascript, Java, Typescript
-# React, Angular, Node.js, Express,js
-# PostgreSQL, MongoDB, MySQL
-# Docker, Kubernetes
+<ul>
+  <li>Javascript, Java, Typescript</li>
+  <li>React, Angular, Node.js, Express.js</li>
+  <li>PostgreSQL, MongoDB, MySQL</li>
+  <li>Docker, Kubernetes</li>
+</ul>
 
 
 # Contact
