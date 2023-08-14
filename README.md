@@ -20,12 +20,6 @@ I have Master's Degree in International Business and Engineering from SRH Hochsh
   </li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/varun-thaker-0369](https://www.linkedin.com/in/nisargmewada/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisargmewada" height="30" width="40" /></a>
-<a href="https://www.xing.com/profile/Nisarg_Mewada/cv" target="_blank"><img align="center" src="https://www.svgrepo.com/show/183635/xing.svg" alt="nisarg-mewada-cv" height="30" width="40" /></a>
-</p>
-
 <h2 align="left">Technologies</h2>
 
 <h3>Frontend</h3>
