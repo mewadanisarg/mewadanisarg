@@ -7,15 +7,15 @@
 
 ## About Me
 
-My name is Nisarg Mewada and I'm currently working for Prostep AG as Junior Software Engineer. On daily basis I work with Java, Angular, Jira, Confluence, Artifactory, Docker, Kuberneter and AWS. Analytical, communication and time mananegment skills helped me to climb the knownledge ledder within the organisation. 
+My name is Nisarg Mewada and I'm currently working for Prostep AG as a Junior Software Engineer. Daily, I work with Angular, Jira, Confluence, Artifactory, Docker, Kubernetes, and AWS. Analytical, communication, and time management skills helped me to climb the knowledge ladder within the organization. 
 
-I have graduated as **Full Stack Web Developer** From Spiced Academy's Bootcamp in June 2021. 
+I graduated as **Full Stack Web Developer** From Spiced Academy's Bootcamp in June 2021. 
 
-I have become very curious about web development since my bachelors studies and started to code during that period. Although my background is not in IT, but I am having a fun time learning and developing new things using different languages.
+I have become very curious about web development since my bachelor's studies and started to code during that period. Although my background is not in IT, I am having a fun time learning and developing new things using different languages.
 
-I have Master's Degree in International Business and Engineering from SRH Hochshule Heidelberg. So I know well to organise stuff😄.
+I have a Master's Degree in International Business and Engineering from SRH Hochschule Heidelberg. So I know well how to organize stuff😄.
 
-## Little more detials about me👇
+## Little more details about me👇
 <ul>
   <li>Nationality: <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png" height="12" width="20"></li>
   <li>Home: Berlin <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" height="12" width="20"></li>
